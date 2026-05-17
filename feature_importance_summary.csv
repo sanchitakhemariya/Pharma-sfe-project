@@ -1,0 +1,11 @@
+Feature,Importance,Rank,Contribution %,Feature Label
+year,0.28461513,1,28.5,Year
+month,0.25880912,2,25.9,Month of year
+seasonality_idx,0.15723152,3,15.7,Seasonality index
+rep_tenure,0.06903765,4,6.9,Rep experience (years)
+hcp_tier,0.06253685,5,6.3,HCP tier (doctor quality)
+competitor_share,0.036025077,6,3.6,Competitor market share
+samples_dropped,0.034352016,7,3.4,Drug samples dropped
+calls,0.034025803,8,3.4,Rep call frequency
+digital_touches,0.032737352,9,3.3,Digital touchpoints
+market_access,0.03062945,10,3.1,Market access score
