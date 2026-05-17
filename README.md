@@ -201,7 +201,7 @@ Sanchita Khemariya
 Data Science Professional | Python | SQL | Machine Learning
 Executive PG Certification — Data Science & AI, IIT Roorkee & Intellipaat
 ![LinkedIn](www.linkedin.com/in/sanchita-khemariya-28ab62309) 
-![GitHub](https://github.com/sanchitakhemariya)
+![GitHub](git clone https://github.com/sanchitakhemariya/Pharma-sfe-project.git)
 ---
 This project was built as part of a commercial analytics portfolio
 targeting pharma data science roles.
