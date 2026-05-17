@@ -200,8 +200,8 @@ Git / GitHub	Version control
 Sanchita Khemariya
 Data Science Professional | Python | SQL | Machine Learning
 Executive PG Certification — Data Science & AI, IIT Roorkee & Intellipaat
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)
-![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)
+![LinkedIn](www.linkedin.com/in/sanchita-khemariya-28ab62309) 
+![GitHub](https://github.com/sanchitakhemariya)
 ---
 This project was built as part of a commercial analytics portfolio
 targeting pharma data science roles.
